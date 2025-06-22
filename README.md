@@ -1,4 +1,4 @@
-# Microsoft-Sentinel-Incident-Response-System# 
+# Microsoft-Sentinel-Incident-Response-System 
 ## 📌 Business Case
 Security teams face increasing alert volumes and limited response time. This project implements an automated incident response system using Microsoft Sentinel and Azure Logic Apps to reduce mean time to respond (MTTR), standardize remediation workflows, and improve SOC efficiency.
 
